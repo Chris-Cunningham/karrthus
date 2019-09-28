@@ -1,0 +1,14 @@
+{
+  "name": "Deckbuilder",
+  "version": "1.0.0",
+  "description": "MTG Deckbuilder",
+  "main": "bot.js",
+  "author": "Chris Cunningham",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "gm": "^1.23.1",
+    "https": "*",
+    "image-downloader": "^3.5.0",
+    "winston": "^3.2.1"
+  }
+}
